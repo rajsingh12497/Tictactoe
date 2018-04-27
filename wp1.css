@@ -1,0 +1,19 @@
+body{
+  width: 550px;
+  margin: auto;
+}
+
+h1{
+  border-bottom: 1px solid black;
+}
+
+.Square{
+  height: 80px;
+  width: 80px;
+  font-size: 45pt;
+  text-align: center;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
